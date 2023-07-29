@@ -14,5 +14,8 @@ This app performs simple data analysis on the ***Spotify*** dataset.
     - matplotlib
     - seaborn
 * **Data source:** [Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
-<img src= "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/840361120717875.60b74ae5b9f13.gif">
-""", unsafe_allow_html= True)
+<img src= "https://www.techwithgeeks.com/wp-content/uploads/image-43-1020x570.jpg">
+""", unsafe_allow_html= True )
+
+
+
